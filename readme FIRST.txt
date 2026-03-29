@@ -83,11 +83,12 @@ ollama pull mistral
 
 ## WARNING:
 - THIS BUILD IS UNFINISHED AND I DONT HAVE ANY INTENTIONS TO FIX THIS OR CONTINUE THIS PROJECT
--download venv from here.
+-download venv from here :-https://archive.org/details/venv_20260329
 -create these files in the root folder
-				-data---|
-				        |-images(upload images for training ai)
-					|-pdfs(upload pdfs for training ai)
-				
-				-temp_images
-				-temp_pdfs
+	-------   / (Root)
+			   |-data---|
+			   |        |-images(upload images for training ai)
+			   |		|-pdfs(upload pdfs for training ai)
+			   |				
+			   |-temp_images
+			   |-temp_pdfs
