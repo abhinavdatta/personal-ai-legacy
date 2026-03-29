@@ -83,7 +83,7 @@ ollama pull mistral
 
 ## WARNING:
 - THIS BUILD IS UNFINISHED AND I DONT HAVE ANY INTENTIONS TO FIX THIS OR CONTINUE THIS PROJECT
--download venv from here :-https://archive.org/details/venv_20260329
+-download venv from here :-https://drive.google.com/file/d/1xN93chPIEF6tAy8NHhevylbA38WNo43j/view?usp=sharing
 -create these files in the root folder
 	-------   / (Root)
 			   |-data---|
