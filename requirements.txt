@@ -1,0 +1,15 @@
+streamlit
+pypdf
+sentence-transformers
+faiss-cpu
+opencv-python
+pytesseract
+Pillow
+pywebview
+
+langchain
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+
+ollama
